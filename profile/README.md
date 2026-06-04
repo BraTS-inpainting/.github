@@ -2,6 +2,9 @@
 
 Welcome to the official GitHub organization of the **Brain MRI Inpainting Challenge**.
 
+<img width="3200" height="1800" alt="image" src="https://github.com/user-attachments/assets/68155f3e-fbf1-467f-abc7-c99210863120" />
+
+
 This challenge benchmarks generative methods for **inpainting healthy brain tissue** in **T1-weighted MRI scans**.
 Participants are provided with partially masked T1 scans from real patient data and are tasked with reconstructing the missing regions as realistically as possible — without seeing the original ground truth.
 The BraTS inpainting challenge started on MICCAI 2023.
